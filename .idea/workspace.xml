@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ede2211-3ada-440b-9e2f-1226afeef4f4" name="Default Changelist" comment="" />
+    <list default="true" id="1ede2211-3ada-440b-9e2f-1226afeef4f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bumimiao/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/bumimiao/src/views/Home.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/bumimiao" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -22,12 +36,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1kBDbV2tokG23iDjfOpXm4N7a7t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/code/idea/OBT_EXAM" />
@@ -38,19 +55,6 @@
     <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
     <property name="ts.external.directory.path" value="X:\code\idea\vue-tell-me\bumimiao\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -66,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605165162725</updated>
       <workItem from="1605165163849" duration="502000" />
-      <workItem from="1605165672975" duration="6212000" />
+      <workItem from="1605165672975" duration="7149000" />
+      <workItem from="1605255654098" duration="601000" />
     </task>
     <servers />
   </component>
@@ -82,5 +87,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1605165165251" />
+    <state x="549" y="261" key="Github.ShareDialog" timestamp="1605174324385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="549" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1605174324385" />
+    <state x="455" y="65" key="Github.UntrackedFilesDialog" timestamp="1605174373897">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="65" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605174373897" />
   </component>
 </project>
